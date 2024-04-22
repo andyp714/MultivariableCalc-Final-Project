@@ -5,7 +5,7 @@ import math
 
 
 def main():
-    vectorDensity = 20 #How many vectors graphed
+    vectorDensity = 40 #How many vectors graphed
     xMin = -10
     xMax = 10
     yMin = -10
